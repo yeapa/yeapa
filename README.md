@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning [Technology/Language]
 - 👯 I’m looking to collaborate on [Projects/Topics]
 - 💬 Ask me about [Topics]
-- 📫 How to reach me: yexianga@gmail.com
+- 📫 How to reach me: xiangc.ye@gmail.com
 
 ## Skills
 - **Programming Languages:** Python, JavaScript, ...
