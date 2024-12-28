@@ -1,10 +1,10 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm yeapa 👋
 
 ## About Me
 - 🌱 I’m currently learning [Technology/Language]
 - 👯 I’m looking to collaborate on [Projects/Topics]
 - 💬 Ask me about [Topics]
-- 📫 How to reach me: [Your Email]
+- 📫 How to reach me: yexianga@gmail.com
 
 ## Skills
 - **Programming Languages:** Python, JavaScript, ...
